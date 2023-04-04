@@ -157,5 +157,5 @@ Splitting the data into test and train
 ### X_Train Shape:
 ![](xtrainshape.png)
 
-## RESULT
+## RESULT:
 Data preprocessing is performed in a data set downloaded from Kaggle.
